@@ -1,0 +1,24 @@
+{
+  "name": "ava-kitchen",
+  "version": "1.0.0",
+  "description": "URL redirect App",
+  "main": "index.js",
+  "homepage": "https://avakitchen.netlify.com",
+  "baseURL": "https://avakitchen.netlify.app",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryceTheCreator/ava-kitchen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryceTheCreator/ava-kitchen/issues"
+  },
+  "dependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}
